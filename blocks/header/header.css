@@ -1,0 +1,23 @@
+.header {
+    margin: 0 auto;
+    padding: 0 48px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    margin-top: 28px;
+
+}
+
+@media (max-width: 1023px) {
+    .header {
+        padding: 0 24px;
+    }
+}
+
+@media (max-width: 767px) {
+    .header {
+        padding: 0 16px;
+        margin-top: 16px;
+    }
+}

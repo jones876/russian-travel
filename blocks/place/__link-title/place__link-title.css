@@ -1,0 +1,17 @@
+.place__link-title {
+  padding: 0;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 2px;
+  color: #AAAAAA;
+  ;
+}
+
+@media (max-width: 767px) {
+  .place__link-title {
+    margin: 0;
+    padding-bottom: 12px;
+  }
+}
