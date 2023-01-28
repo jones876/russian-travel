@@ -28,6 +28,6 @@
 7.Git
 
 ---
-[Ссылка на GitHub Pages]()
+[Ссылка на GitHub Pages](https://jones876.github.io/russian-travel/)
 
 *В планах по доработке сайта - "оживление" при помощи JS.*
